@@ -1,0 +1,12 @@
+langchain==0.2.5
+langchain_community==0.2.5
+langchain_core==0.2.9
+langchain_ibm==0.1.7
+langchain_text_splitters==0.2.1
+docarray==0.40.0
+sentence-transformers==3.0.1
+unstructured==0.14.7
+unstructured_client==0.23.7
+faiss-cpu==1.8.0
+python-dotenv==1.0.1
+pdfminer==20191125
